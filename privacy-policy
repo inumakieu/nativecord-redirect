@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - NativeCord</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p><strong>Effective date:</strong> [Insert Date]</p>
+
+  <p>This Privacy Policy describes how NativeCord ("we", "our", or "us") handles your data.</p>
+
+  <h2>1. What Information We Collect</h2>
+  <p>When you log in using Discord OAuth2, we may collect the following data based on the scopes you authorize:</p>
+  <ul>
+    <li>Your Discord user ID, username, and avatar</li>
+    <li>Your email address (if authorized)</li>
+    <li>Your list of servers ("guilds")</li>
+    <li>Messages you send or receive within accessible channels</li>
+    <li>Your access token for authentication</li>
+  </ul>
+
+  <h2>2. How We Use Your Data</h2>
+  <p>We use this data to provide functionality within the NativeCord app. This includes:</p>
+  <ul>
+    <li>Displaying your account information</li>
+    <li>Showing your servers and channels</li>
+    <li>Allowing you to read and send messages</li>
+  </ul>
+  <p>Message content is used only for display and interaction within the app. We do not store, log, or transmit your messages to any server.</p>
+
+  <h2>3. Data Storage and Retention</h2>
+  <p>All user data is stored locally on your device. No data is uploaded or sent to third-party servers. All data is cleared when you log out or uninstall the app.</p>
+
+  <h2>4. Third-Party Services</h2>
+  <p>NativeCord connects directly to the Discord API. We do not use analytics, advertising, or third-party SDKs.</p>
+
+  <h2>5. Your Rights</h2>
+  <p>You may revoke access at any time from your <a href="https://discord.com/developers/applications">Discord settings</a>.</p>
+
+  <h2>6. Changes</h2>
+  <p>We may update this policy from time to time. Material changes will be posted on this page.</p>
+
+  <h2>7. Contact</h2>
+  <p>For questions or concerns, please contact the developer through the GitHub repository.</p>
+</body>
+</html>

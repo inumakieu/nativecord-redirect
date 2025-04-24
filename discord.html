@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting to NativeCord</title>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const code = params.get("code");
+    if (code) {
+      window.location.href = `nativecord://discord-auth?code=${code}`;
+    } else {
+      document.body.innerHTML = "<h2>Missing code parameter</h2>";
+    }
+  </script>
+</head>
+<body>
+  <h2>Redirecting to NativeCord...</h2>
+</body>
+</html>
